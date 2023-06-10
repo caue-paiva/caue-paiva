@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Atualmente meu principal interesse é desenvolver no framework Langchain do Python, utilizando modelos de IA como a API do chatGPT.
+- 🔭 Atualmente meu principal interesse é desenvolver no framework Langchain usando Python e modelos de IA como a API do chatGPT.
 - 🌱 Estou aprendendo como utilizar diversos modelos de linguagem, incluindo modelos open-source.
 - 📫 Pode me chamar no email cauepaivalira@outlook.com
 
