@@ -1,10 +1,10 @@
-### Olá! Meu nome é Cauê e eu sou um estudante de ciências da computação na USP
+### Hello! My name is Cauê and I am a computer science student at USP.
 
 
 
-- 🔭 Atualmente meu principal interesse é desenvolver no framework Langchain usando Python e modelos de IA como a API do chatGPT.
-- 🌱 Estou aprendendo como utilizar diversos modelos de linguagem, incluindo modelos open-source.
-- 📫 Pode me chamar no email cauepaivalira@outlook.com
+- 🔭 Currently, my main interest is developing in the Langchain framework using Python and AI models like the chatGPT API.
+- 🌱 I am learning how to use various language models, including open-source ones.
+- 📫 You can reach me at the email cauepaivalira@outlook.com.
 
 [![Caue's GitHub stats](https://github-readme-stats.vercel.app/api?username=caue-paiva)](https://github.com/caue-paiva/github-readme-stats)
 
@@ -18,6 +18,6 @@
 </div>
 
 <div>
-  <h1> Minhas redes sociais: <h2>
+  <h1> My social networks: <h2>
   <a href="https://www.linkedin.com/in/cau%C3%AA-paiva-lira-57b44b227/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <div>
