@@ -40,7 +40,7 @@ For the **educational chatbots**, both the website and the customGPT version, i 
 
 In such context i created this project, which combines **PDF/data mining** through libraries like PyMuPDF2 to transform the ENEM pdf into either textual data or into JSON files **(Extraction and Transform part)** and then a **Qdrant VectorDB loader** to load the data into the vectorstore **(Load part)**. That combination is able to process either single tests PDFs (and their associated answer PDFs) or entire folders with multiple tests, loading hundreds of questions at once, all while providing **metadata and stats about the extraction process (number of extracted questions per year and subject) to a CSV file, through a Pandas DataFrame.**
 
-<h1> Projects i developed as part of the Universidade of São Paulo Cientific Initiation Symposium (SIICUSP 2023) </h1>
+<h2> Projects i developed as part of the Universidade of São Paulo Cientific Initiation Symposium (SIICUSP 2023) </h2>
 
 
 <h3>  <a href="https://github.com/EnzoTM/R2_D2">Robot with Computer Vision and Speech Recognition </a> </h3>
@@ -51,6 +51,7 @@ The goal of this effort was the **integrate Machine Learning Models , such as Co
 
 My main contribution was with **software development for the ESP-32 embedded systems, using C++ and modules such as Wi-Fi HTTP request handlers**.
 
+Heres the [certificate](https://drive.google.com/file/d/1yw5TbL3bTsvKT0r6YJKZV02f3wh_FrvR/view?usp=drive_link) for the Symposium
  
 </div>
 
