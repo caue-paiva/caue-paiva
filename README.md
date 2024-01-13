@@ -11,7 +11,7 @@
 <div>
 <h1> My projects </h1>
 
-<h2> Projects i develop as part of a brazilian goverment R&D grant program </h2>
+<h2> Projects i develop as part of a brazilian goverment R&D grant program (PIBIT CNPq) </h2>
 <h3>  <a href="https://github.com/caue-paiva/educa_gpt_publico">Educational Chatbot for Brazilian high school students</a> </h3>
 
 The project builds upon the **educational capabilities of Large Language Models** (ex: GPT-3.5 and GPT-4) for education ,while also **mitigating weaknesses such as hallucination and lack of knowledge about certain subjects** and tests within the **brazilian university admittance standardized test (ENEM).**
