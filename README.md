@@ -18,7 +18,7 @@ The project builds upon the **educational capabilities of Large Language Models*
 
 To achieve these results an LLM application, using **openAI models** (gpt-3.5 turbo or gpt-4), along with **aditional modules, such as internet search and retrieval augmented generarion for extra functionality**, was developed.
 
-<h4>  <a href="https://github.com/caue-paiva/educa_gpt_publico">CustomGPTs using APIs hosted on AWS </a> </h4>
+<h3>  <a href="https://github.com/caue-paiva/educa_gpt_publico">CustomGPTs using APIs hosted on AWS </a> </h3>
   
 </div>
 
