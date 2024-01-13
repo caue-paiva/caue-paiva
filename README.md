@@ -18,8 +18,40 @@ The project builds upon the **educational capabilities of Large Language Models*
 
 To achieve these results an LLM application, using **openAI models** (gpt-3.5 turbo or gpt-4), along with **aditional modules, such as internet search and retrieval augmented generarion for extra functionality**, was developed.
 
+### According to [feedback](https://docs.google.com/spreadsheets/d/1UaDeCpGzO5sNSsrges_OVAHg9-5cmw7FES6-4ZroLtc/edit?usp=sharing), **over 60% of users said our solution has better and more accurate answers than chatGPT**
+
 <h3>  <a href="https://github.com/caue-paiva/educa_custom_GPT">CustomGPTs using APIs hosted on AWS </a> </h3>
-  
+Implementation of the Educational Chatbot described above but using the new OpenAI customGPTs service.
+
+<br> 
+
+
+
+**Helpful Prompts and data extracted from official sources** about the ENEM test was used for better results. 
+
+
+For the purpose of **RAG over ENEM test questions** a GPT action and its associated API was used, the **API is hosted on AWS API gateway** and uses a **Lambda Function** for taking user inputs, embedding them with openAI embeddings and then querying 
+Qdrant vectorDB for the N questions more similar to user input, with N being the number of questions the user asked.
+
+
+ <h3> <a href="https://github.com/caue-paiva/PDF_to_vectorDB_ETL">ETL pipeline for processing PDFs and feeding data into vectorDBs </a>    </h3> 
+
+For the **educational chatbots**, both the website and the customGPT version, i needed a **large dataset of ENEM questions and their correct answers** for the purpose of RAG and **reduce LLM hallucinations** (such as giving the wrong answer to a question) but no such large scale data was available online.
+
+In such context i created this project, which combines **PDF/data mining** through libraries like PyMuPDF2 to transform the ENEM pdf into either textual data or into JSON files **(Extraction and Transform part)** and then a **Qdrant VectorDB loader** to load the data into the vectorstore **(Load part)**. That combination is able to process either single tests PDFs (and their associated answer PDFs) or entire folders with multiple tests, loading hundreds of questions at once, all while providing **metadata and stats about the extraction process (number of extracted questions per year and subject) to a CSV file, through a Pandas DataFrame.**
+
+<h1> Projects i developed as part of the Universidade of São Paulo Cientific Initiation Symposium (SIICUSP 2023) </h1>
+
+
+<h3>  <a href="https://github.com/EnzoTM/R2_D2">Robot with Computer Vision and Speech Recognition </a> </h3>
+
+Project developed in group for an eletronics class in university
+
+The goal of this effort was the **integrate Machine Learning Models , such as Computer vision and text classification,** with a robot powered by a **microcontroller (ESP-32)**
+
+My main contribution was with **software development for the ESP-32 embedded systems, using C++ and modules such as Wi-Fi HTTP request handlers**.
+
+ 
 </div>
 
 <div style="display: inline_block"><br>
@@ -27,6 +59,10 @@ To achieve these results an LLM application, using **openAI models** (gpt-3.5 tu
   <img align="center" alt="Caue-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Caue-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Caue-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Caue-GPT" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1024px-ChatGPT_logo.svg.png">
+  <img align="center" alt="Caue-qdrant" height="30" width="40" src="https://avatars.githubusercontent.com/u/73504361?s=200&v=4">
+   <img align="center" alt="Caue-AWS" height="50" width="60" src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png">
+     
 
 </div>
 
