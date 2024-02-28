@@ -44,7 +44,7 @@ In such context i created this project, which combines **PDF/data mining** throu
 
 <h3>  <a href="https://github.com/caue-paiva/airflow_project"> Crypto Data ETL pipeline with Airflow and AWS </a> </h3>
 
-This project aims to collect and update data on Crypto Tokens like Bitcoin and Ethereum in the form of CSV files covering large periods of trading data collected from the Binance US API.
+This project aims to **collect and update data on cryptocurrencies like Bitcoin and Ethereum**, storing the information in **CSV files**. These files cover extensive periods of trading data collected from the **Binance US API**.
 
 The main technologies used are **AWS Cloud (Lambda, API gateway, EC2 and S3)**, **Apache Airflow** for Data pipeline orchestration, **Python and Pandas** for manipulating the data
 
