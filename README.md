@@ -40,8 +40,20 @@ For the **educational chatbots**, both the website and the customGPT version, i 
 
 In such context i created this project, which combines **PDF/data mining** through libraries like PyMuPDF2 to transform the ENEM pdf into either textual data or into JSON files **(Extraction and Transform part)** and then a **Qdrant VectorDB loader** to load the data into the vectorstore **(Load part)**. That combination is able to process either single tests PDFs (and their associated answer PDFs) or entire folders with multiple tests, loading hundreds of questions at once, all while providing **metadata and stats about the extraction process (number of extracted questions per year and subject) to a CSV file, through a Pandas DataFrame.**
 
-<h2> Projects i developed as part of the Universidade of São Paulo Cientific Initiation Symposium (SIICUSP 2023) </h2>
+<h2> Projects i developed to learn new technologies and concepts! </h2>
 
+<h3>  <a href="https://github.com/caue-paiva/airflow_project"> Crypto Data ETL pipeline with Airflow and AWS </a> </h3>
+
+This project aims to collect and update data on Crypto Tokens like Bitcoin and Ethereum in the form of CSV files covering large periods of trading data collected from the Binance US API.
+
+The main technologies used are **AWS Cloud (Lambda, API gateway, EC2 and S3)**, **Apache Airflow** for Data pipeline orchestration, **Python and Pandas** for manipulating the data
+
+Heres the architecture of the Project/Pipeline:
+
+<img align="center" alt="Caue-airflow" height="30" width="40" src="https://github.com/caue-paiva/airflow_project/blob/master/architecture.png">
+
+
+<h2> Projects i developed as part of the Universidade of São Paulo Cientific Initiation Symposium (SIICUSP 2023) </h2>
 
 <h3>  <a href="https://github.com/EnzoTM/R2_D2">Robot with Computer Vision and Speech Recognition </a> </h3>
 
