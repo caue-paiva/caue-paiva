@@ -50,7 +50,7 @@ The main technologies used are **AWS Cloud (Lambda, API gateway, EC2 and S3)**, 
 
 Heres the architecture of the Project/Pipeline:
 
-<img align="center" alt="Caue-airflow" height="30" width="40" src="https://github.com/caue-paiva/airflow_project/blob/master/architecture.png">
+<img align="center" alt="Caue-airflow" src="https://github.com/caue-paiva/airflow_project/blob/master/architecture.png">
 
 
 <h2> Projects i developed as part of the Universidade of São Paulo Cientific Initiation Symposium (SIICUSP 2023) </h2>
