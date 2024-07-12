@@ -2,7 +2,7 @@
 
 -  🔭 Currently, my main interest is developing Data related projects, such as **ETL (Extract, Transform and Load) Pipelines on the cloud**, **WebScrapping with Python** and **Data Warehouses** for Analytics.
 -  🌱 I am learning how to use various technologies, a few examples are: Python, Pandas, Airflow, AWS, SQL, Postgres, Selenium, Langchain
--  - 📫 You can reach me at the email cauepaivalira@outlook.com.
+-  📫 You can reach me at the email cauepaivalira@outlook.com.
 
 [![Caue's GitHub stats](https://github-readme-stats.vercel.app/api?username=caue-paiva)](https://github.com/caue-paiva/github-readme-stats)
 
