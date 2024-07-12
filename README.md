@@ -1,15 +1,18 @@
 ### Hello! My name is Cauê and I am a computer science student at USP.
 
-
-
-- 🔭 Currently, my main interest is developing in the Langchain framework using **Python** and  **Large Language Models**, like chatGPT, as well as developing **applications to extract and feed high-quality data into Machine Learning Models**
-- 🌱 I am learning how to use various language models, including open-source ones.
-- 📫 You can reach me at the email cauepaivalira@outlook.com.
+-  🔭 Currently, my main interest is developing Data related projects, such as **ETL (Extract, Transform and Load) Pipelines on the cloud**, **WebScrapping with Python** and **Data Warehouses** for Analytics.
+-  🌱 I am learning how to use various technologies, a few examples are: Python, Pandas, Airflow, AWS, SQL, Postgres, Selenium, Langchain
+-  - 📫 You can reach me at the email cauepaivalira@outlook.com.
 
 [![Caue's GitHub stats](https://github-readme-stats.vercel.app/api?username=caue-paiva)](https://github.com/caue-paiva/github-readme-stats)
 
 <div>
 <h1> My projects </h1>
+
+<h2> Projects i develop as part of a São Paulo State Research Foundation (FAPESP) R&D grant program </h2>
+<h3>  <a href="https://github.com/caue-paiva/intelli.gente_data_extraction">Data Warehouse and automatic ETL pipeline for extracting and analyzing public brazilian goverment data </a> </h3>
+
+This project aims to develop a **Data Warehouse (DW) that consolidates multiple public government data points** over several years, focusing on socio-economic indicators. The DW will support **analytical queries and time-series analysis**, providing decision-makers with deeper insights into areas such as Economic Activity, Environmental Policies and Damage, and Public Health. Additionally, the project features an E**TL pipeline to automate the collection, transformation, and loading of data** from public sources into the DW.
 
 <h2> Projects i develop as part of a brazilian goverment R&D grant program (PIBIT CNPq) </h2>
 <h3>  <a href="https://github.com/caue-paiva/educa_gpt_publico">Educational Chatbot for Brazilian high school students</a> </h3>
