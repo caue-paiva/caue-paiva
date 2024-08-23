@@ -10,9 +10,15 @@
 <h1> My projects </h1>
 
 <h2> Projects i develop as part of a São Paulo State Research Foundation (FAPESP) R&D grant program </h2>
-<h3>  <a href="https://github.com/caue-paiva/intelli.gente_data_extraction">Data Warehouse and automatic ETL pipeline for extracting and analyzing public brazilian goverment data </a> </h3>
+<h3> Data Warehouse and automatic ETL pipeline for extracting and analyzing public brazilian goverment data </h3>
 
 This project aims to develop a **Data Warehouse (DW) that consolidates multiple public government data points** over several years, focusing on socio-economic indicators. The DW will support **analytical queries and time-series analysis**, providing decision-makers with deeper insights into areas such as Economic Activity, Environmental Policies and Damage, and Public Health. Additionally, the project features an E**TL pipeline to automate the collection, transformation, and loading of data** from public sources into the DW.
+
+<h4> Modules of the Project </h4>
+
+<a href="https://github.com/caue-paiva/intelli.gente_data_extraction"> Automatic ETL pipeline for extracting, cleaning and processing public brazilian goverment data using APIs and Webscrapping </a>
+
+<a href="https://github.com/caue-paiva/intelli.gente_database_module"> Python and SQL scripts related to the Data Warehouse, its schema and the insertion and retrieval of Data </a>
 
 <h2> Projects i develop as part of a brazilian goverment R&D grant program (PIBIT CNPq) </h2>
 <h3>  <a href="https://github.com/caue-paiva/educa_gpt_publico">Educational Chatbot for Brazilian high school students</a> </h3>
