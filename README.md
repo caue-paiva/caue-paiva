@@ -15,6 +15,13 @@
 
 This project aims to develop a **Data Warehouse (DW) that consolidates multiple public government data points** over several years, focusing on socio-economic indicators. The DW will support **analytical queries and time-series analysis**, providing decision-makers with deeper insights into areas such as Economic Activity, Environmental Policies and Damage, and Public Health. Additionally, the project features an E**TL pipeline to automate the collection, transformation, and loading of data** from public sources into the DW. The end goal is to use the DW too serve interactive dashboards to allow for easier analysis of this data.
 
+<h4> Architecture of the Project </h4>
+
+<img align="center" alt="Caue-arqui-intelligente" src="https://github.com/caue-paiva/intelli.gente_data_extraction/blob/15-logs-e-observabilidade-da-extra%C3%A7%C3%A3o-dos-dados-e-corre%C3%A7%C3%A3o-de-um-dado-do-snis/readme_images/ArchitectureDiagram.png">
+<br>
+
+
+
 <h4> Modules of the Project </h4>
 
 <a href="https://github.com/caue-paiva/intelli.gente_data_extraction"> Automatic ETL pipeline for extracting, cleaning and processing public brazilian goverment data using APIs and Webscrapping </a>
