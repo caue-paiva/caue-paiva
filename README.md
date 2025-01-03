@@ -1,7 +1,8 @@
 ### Hello! My name is Cauê and I am a computer science student at USP.
 
--  🔭 Currently, my main interest is developing Data related projects, such as **ETL (Extract, Transform and Load) Pipelines on the cloud**, **WebScrapping with Python** and **Data Warehouses** for Analytics.
--  🌱 I am learning how to use various technologies, a few examples are: Python, Pandas, Airflow, AWS, SQL, Postgres, Selenium, Langchain
+-  🔭 Currently, my main interest is developing Data related projects, such as **ETL (Extract, Transform and Load) Pipelines on the cloud**, **WebScrapping with Python** and **Data Warehouses** for Analytics. 
+-  ⚙️ Besides data-related projects, I am also highly interested in **low-level** programming using **C and C++**. I have developed several projects in this domain, including embedded systems on an ESP-32 and interactive games using **threads** in these languages.
+-  🌱 I am learning how to use various technologies, a few examples are: Python, Pandas, Airflow, AWS, SQL, Postgres, Selenium, Langchain, C++, C
 -  📫 You can reach me at the email cauepaivalira@outlook.com.
 
 [![Caue's GitHub stats](https://github-readme-stats.vercel.app/api?username=caue-paiva)](https://github.com/caue-paiva/github-readme-stats)
@@ -10,9 +11,9 @@
 <h1> My projects </h1>
 
 <h2> Projects i develop as part of a São Paulo State Research Foundation (FAPESP) R&D grant program </h2>
-<h3> Data Warehouse and automatic ETL pipeline for extracting and analyzing public brazilian goverment data </h3>
+<h3> Data Warehouse and automatic ETL pipeline for extracting and analyzing public brazilian goverment data with interactive Dashboards </h3>
 
-This project aims to develop a **Data Warehouse (DW) that consolidates multiple public government data points** over several years, focusing on socio-economic indicators. The DW will support **analytical queries and time-series analysis**, providing decision-makers with deeper insights into areas such as Economic Activity, Environmental Policies and Damage, and Public Health. Additionally, the project features an E**TL pipeline to automate the collection, transformation, and loading of data** from public sources into the DW.
+This project aims to develop a **Data Warehouse (DW) that consolidates multiple public government data points** over several years, focusing on socio-economic indicators. The DW will support **analytical queries and time-series analysis**, providing decision-makers with deeper insights into areas such as Economic Activity, Environmental Policies and Damage, and Public Health. Additionally, the project features an E**TL pipeline to automate the collection, transformation, and loading of data** from public sources into the DW. The end goal is to use the DW too serve interactive dashboards to allow for easier analysis of this data.
 
 <h4> Modules of the Project </h4>
 
@@ -65,6 +66,16 @@ Heres the architecture of the Project/Pipeline:
 <img align="center" alt="Caue-airflow" src="https://github.com/caue-paiva/airflow_project/blob/master/architecture.png">
 <br>
 <br>
+
+<h4>  <a href="https://github.com/caue-paiva/airflow_project"> Plotting tool for analysis of public violence data in Brazil </a> </h4>
+
+This project implements a Python script for **data analysis and visualization with plots** based on data from IPEA (Institute for Applied Economic Research) and its "Map of Violence" database. It allows analyzing data such as Homicide and Suicide Rates by state and year. The dataset also includes gender-separated data, enabling a historical series analysis of violence against women. 
+
+The program automatically generates plots, one for each specified year, based on the retrieved data. The plots will be saved in the current directory.
+
+<img align="center" alt="Caue-grafico-ipea" src="https://github.com/caue-paiva/brazilian_public_violence_analysis/blob/master/female_homicide_rate_estados_grafico_2000.png">
+<br>
+
 
 <h3> Projects about: C, C++ and low-level programming <h3>
 
