@@ -52,28 +52,38 @@ In such context i created this project, which combines **PDF/data mining** throu
 <br>
 <h2> Projects i developed to learn new technologies and concepts! </h2>
 
-<h3>  <a href="https://github.com/caue-paiva/airflow_project"> Crypto Data ETL pipeline with Airflow and AWS </a> </h3>
+<h3> Projects about: Python for Data Science and Engineering <h3>
+
+<h4>  <a href="https://github.com/caue-paiva/airflow_project"> Crypto Data ETL pipeline for Analytical Dashboards with Airflow and AWS </a> </h4>
 
 This project aims to **collect and update data on cryptocurrencies like Bitcoin and Ethereum**, storing the information in **CSV files**. These files cover extensive periods of trading data collected from the **Binance US API**.
 
-The main technologies used are **AWS Cloud (Lambda, API gateway, EC2 and S3)**, **Apache Airflow** for Data pipeline orchestration, **Python and Pandas** for manipulating the data
+The main technologies used are **AWS Cloud (Lambda, API gateway, EC2 and S3)**, **Apache Airflow** for Data pipeline orchestration, **Python and Pandas** for manipulating the data and **Plotly** for create nice plots of the Data.
 
 Heres the architecture of the Project/Pipeline:
 
 <img align="center" alt="Caue-airflow" src="https://github.com/caue-paiva/airflow_project/blob/master/architecture.png">
 <br>
 <br>
-<h2> Projects i developed as part of the Universidade of São Paulo Cientific Initiation Symposium (SIICUSP 2023) </h2>
 
-<h3>  <a href="https://github.com/EnzoTM/R2_D2">Robot with Computer Vision and Speech Recognition </a> </h3>
+<h3> Projects about: C, C++ and low-level programming <h3>
 
-Project developed in group for an eletronics class in university
+<h4>  <a href="https://github.com/EnzoTM/R2_D2">Robot with Computer Vision and Speech Recognition </a> </h4>
+
+Project developed in group for an eletronics class in university and presented on the Undergrad Research Symposium of Universidade of São Paulo (SIICUSP 2023).
 
 The goal of this effort was the **integrate Machine Learning Models , such as Computer vision and text classification,** with a robot powered by a **microcontroller (ESP-32)**
 
 My main contribution was with **software development for the ESP-32 embedded systems, using C++ and modules such as Wi-Fi HTTP request handlers**.
 
 Heres the [certificate](https://drive.google.com/file/d/1yw5TbL3bTsvKT0r6YJKZV02f3wh_FrvR/view?usp=drive_link) for the Symposium
+
+<h4> <a href="https://github.com/caue-paiva/operational_systems_project"> Interactive terminal game using Threads in C++ </a>    </h4>
+
+This project was developed as part of an undergrad course in Operating Systems, with the main goal being to create an **interactive game displayed on the terminal** using **Threads and Mutexes** to allow for concurrent operations, such as rendering the game board, getting user input, moving the game elements among others. 
+<br>
+
+One of the main benefits from this project was my further familiarization with C++ stdlib functions, classes and structures for working in a multi-thread environment.
  
 </div>
 
@@ -82,6 +92,8 @@ Heres the [certificate](https://drive.google.com/file/d/1yw5TbL3bTsvKT0r6YJKZV02
   <img align="center" alt="Caue-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Caue-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Caue-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Caue-cpp" height="30" width="40" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png">
+  <img align="center" alt="Caue-c" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="Caue-GPT" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1024px-ChatGPT_logo.svg.png">
   <img align="center" alt="Caue-qdrant" height="30" width="40" src="https://avatars.githubusercontent.com/u/73504361?s=200&v=4">
    <img align="center" alt="Caue-AWS" height="50" width="60" src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png">
