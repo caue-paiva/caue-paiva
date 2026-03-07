@@ -15,7 +15,7 @@
 
 An end-to-end AI platform that fights misinformation where it spreads: inside WhatsApp. It uses LLMs with retrieval-augmented generation to fact-check messages with evidence-grounded, source-cited outputs, plus an analytics layer to study misinformation trends at scale. The platform also classifies content into structured topic hierarchies using semantic embeddings for better exploration and monitoring. 
 
-The project earned national recognition as a Top 3 winner out of 173 projects in the AI4Good program, with a funded invitation to present at the Brazil Conference at MIT and Harvard.
+The project earned national recognition as a **Top 3 winner out of 173 projects** in the AI4Good program, with a funded invitation to **present the project at MIT and Harvard**.
 
 <img align="center" alt="Caue-foto-ta-certo-isso-ai" src="https://avatars.githubusercontent.com/u/244182076?s=400&u=e0b134d71e567667035933cfff8f2d1f36bad892&v=4">
 
