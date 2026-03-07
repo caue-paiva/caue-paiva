@@ -1,9 +1,9 @@
-### Hello! My name is Cauê and I am a computer science student at USP.
+### Hello! My name is Cauê and I am a computer science student at USP, Software Engineer at Uber and Undergrad Researcher in AI and Data Science.
 
--  🔭 Currently, my main interest is developing Data related projects, such as **ETL (Extract, Transform and Load) Pipelines on the cloud**, **WebScrapping with Python** and **Data Warehouses** for Analytics. 
--  ⚙️ Besides data-related projects, I am also highly interested in **low-level** programming using **C and C++**. I have developed several projects in this domain, including embedded systems on an ESP-32 and interactive games using **threads** in these languages.
--  🌱 I am learning how to use various technologies, a few examples are: Python, Pandas, Airflow, AWS, SQL, Postgres, Selenium, Langchain, C++, C
--  📫 You can reach me at the email cauepaivalira@outlook.com.
+-  🔭 Currently, my main interest is developing GenAI projects, such as using Agentic AI systems and Data Analytics to [fight misinformation on whatsapp](https://github.com/TaCertoIssoAI)
+-  ⚙️ Besides AI and Machine Learning, I am also highly interested in Software Engineering, i am proficient in Golang and Python (FastAPI) for back-end microservices and typescript for front-ends and NodeJS servers as well.
+-  🌱 I am learning how to use various technologies, a few examples are: Claude Code, LangChain, LangGraph, Google Cloud, AWS, among others.
+-  📫 You can reach me at the email cauepaivalira@usp.br
 
 <div>
 <h1> My projects </h1>
