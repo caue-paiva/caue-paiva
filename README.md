@@ -10,7 +10,7 @@
 <h1> My projects </h1>
 
 
-<h2> AI-Powered Platform for combating misinformation on Whatsapp (TaCertoIssoAI) </h2>
+<h2> AI-Powered Platform for combating misinformation on Whatsapp 📱 (TaCertoIssoAI) </h2>
 
 [Organization link and repos](https://github.com/TaCertoIssoAI)
 
@@ -18,7 +18,7 @@ An end-to-end AI platform that fights misinformation where it spreads: inside Wh
 
 The project earned national recognition as a **Top 3 winner out of 173 projects** in the AI4Good program, with a funded invitation to **present the project at MIT and Harvard**. The project currently counts with around **10k distinct users and over 15k verified messages** on WhatsApp.
 
-<img align="center" alt="Caue-foto-ta-certo-isso-ai" src="https://avatars.githubusercontent.com/u/244182076?s=400&u=e0b134d71e567667035933cfff8f2d1f36bad892&v=4">
+<img align="center" alt="Caue-foto-ta-certo-isso-ai" src="https://github.com/TaCertoIssoAI/.github/blob/main/profile/ta_certo_isso_ai_whatsapp_contact.png">
 
 <h2> 🏎️ AWS DeepRacer Student Competition 2024 🏎️ </h2> 
 
@@ -31,7 +31,7 @@ I was the **national champion of the competition** and received one of the race 
 
 <br>
 
-Code for the reward functions i used to train my models, as well as data analysis code i used to study my performance on the tracks can be found in this [repo](https://github.com/caue-paiva/aws_deepracer).
+Code for the reward functions i used to train my models, as well as data analysis code i used to study my performance on the tracks can be found in this [repo](https://github.com/caue-paiva/aws_deepracer), there is no nice public readme yet because the repo was private for a long time due to it being from a competition i was part of.
 
 
 <h2> Projects i develop as part of a São Paulo State Research Foundation (FAPESP) R&D grant program </h2>
