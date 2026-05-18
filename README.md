@@ -1,8 +1,8 @@
-### Hello! My name is Cauê and I am a computer science student at USP, Software Engineer at Uber and Undergrad Researcher in AI and Data Science.
+### Hello! My name is Cauê and I am a computer science student at USP, Software Engineer at Uber, Founder of the TaCertoIssoAI AI-Powered Fact-checking Project and Undergrad Researcher in AI and Data Science.
 
 -  🔭 Currently, my main interest is developing GenAI projects, such as using Agentic AI systems and Data Analytics to [fight misinformation on whatsapp](https://github.com/TaCertoIssoAI)
 -  ⚙️ Besides AI and Machine Learning, I am also highly interested in Software Engineering, i am proficient in Golang and Python (FastAPI) for back-end microservices and typescript for front-ends and NodeJS servers as well.
--  🌱 I am learning how to use various technologies, a few examples are: Claude Code, LangChain, LangGraph, Google Cloud, AWS, among others.
+-  🌱 I am learning how to use various technologies, especially in the world of Agentic AI for Applications and Software Development a few examples are: Claude Code, LangChain, LangGraph, Google Cloud, AWS, among others.
 -  📫 You can reach me at the email cauepaivalira@usp.br
 -  🧑‍💻 My Linkedin: https://www.linkedin.com/in/cauepaiva/
 
@@ -10,7 +10,7 @@
 <h1> My projects </h1>
 
 
-<h2> AI-Powered Platform for combating misinformation on Whatsapp </h2>
+<h2> AI-Powered Platform for combating misinformation on Whatsapp (TaCertoIssoAI) </h2>
 
 [Organization link and repos](https://github.com/TaCertoIssoAI)
 
@@ -19,6 +19,20 @@ An end-to-end AI platform that fights misinformation where it spreads: inside Wh
 The project earned national recognition as a **Top 3 winner out of 173 projects** in the AI4Good program, with a funded invitation to **present the project at MIT and Harvard**. The project currently counts with around **10k distinct users and over 15k verified messages** on WhatsApp.
 
 <img align="center" alt="Caue-foto-ta-certo-isso-ai" src="https://avatars.githubusercontent.com/u/244182076?s=400&u=e0b134d71e567667035933cfff8f2d1f36bad892&v=4">
+
+<h2> 🏎️ AWS DeepRacer Student Competition 2024 🏎️ </h2> 
+
+In 2024, AWS organized the AWS DeepRacer competition in Brazil, bringing together university students from across the country. The competition involved training autonomous race cars to compete on both virtual and physical tracks, using deep learning and reinforcement learning algorithms to achieve the fastest lap times.
+
+I was the **national champion of the competition** and received one of the race cars as my trophy. I later donated it to a robotics lab at my university, USP-ICMC, so that other students could use it for research, learning, and future competitions.
+
+
+<img align="center" alt="Caue-deep-racer" src="https://media.licdn.com/dms/image/v2/D4D22AQHwEl3IknYmVw/feedshare-shrink_1280/feedshare-shrink_1280/0/1722196280942?e=1780531200&v=beta&t=VMTofllIqQ9Z9OXm_XtQ4yxXP-zqVbEJCbmJC363H4o">
+
+<br>
+
+Code for the reward functions i used to train my models, as well as data analysis code i used to study my performance on the tracks can be found in this [repo](https://github.com/caue-paiva/aws_deepracer).
+
 
 <h2> Projects i develop as part of a São Paulo State Research Foundation (FAPESP) R&D grant program </h2>
 <h3> Data Warehouse and automatic ETL pipeline for extracting and analyzing public brazilian goverment data with interactive Dashboards </h3>
@@ -57,6 +71,7 @@ Implementation of the Educational Chatbot described above but using the new Open
 **Helpful Prompts and data extracted from official sources** about the ENEM test was used for better results. 
 
 
+
 For the purpose of **RAG over ENEM test questions** a GPT action and its associated API was used, the **API is hosted on AWS API gateway** and uses a **Lambda Function** for taking user inputs, embedding them with openAI embeddings and then querying 
 Qdrant vectorDB for the N questions more similar to user input, with N being the number of questions the user asked.
 
@@ -65,7 +80,7 @@ Qdrant vectorDB for the N questions more similar to user input, with N being the
 
 For the **educational chatbots**, both the website and the customGPT version, i needed a **large dataset of ENEM questions and their correct answers** for the purpose of RAG and **reduce LLM hallucinations** (such as giving the wrong answer to a question) but no such large scale data was available online.
 
-In such context i created this project, which combines **PDF/data mining** through libraries like PyMuPDF2 to transform the ENEM pdf into either textual data or into JSON files **(Extraction and Transform part)** and then a **Qdrant VectorDB loader** to load the data into the vectorstore **(Load part)**. That combination is able to process either single tests PDFs (and their associated answer PDFs) or entire folders with multiple tests, loading hundreds of questions at once, all while providing **metadata and stats about the extraction process (number of extracted questions per year and subject) to a CSV file, through a Pandas DataFrame.**
+In such context i created this [project](https://github.com/caue-paiva/ENEM_PDF_PARSER) (which my repo with the most github stars!!) , which combines **PDF/data mining** through libraries like PyMuPDF2 to transform the ENEM pdf into either textual data or into JSON files **(Extraction and Transform part)** and then a **Qdrant VectorDB loader** to load the data into the vectorstore **(Load part)**. That combination is able to process either single tests PDFs (and their associated answer PDFs) or entire folders with multiple tests, loading hundreds of questions at once, all while providing **metadata and stats about the extraction process (number of extracted questions per year and subject) to a CSV file, through a Pandas DataFrame.**
 <br>
 <br>
 <h2> Projects i developed to learn new technologies and concepts! </h2>
@@ -128,6 +143,10 @@ One of the main benefits from this project was my further familiarization with C
   <img align="center" alt="Caue-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Caue-cpp" height="30" width="40" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png">
   <img align="center" alt="Caue-c" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+   
+   <img align="center" alt="Caue-go" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg">
+   <img align="center" alt="Caue-gcp" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg">
+   
   <img align="center" alt="Caue-qdrant" height="30" width="40" src="https://avatars.githubusercontent.com/u/73504361?s=200&v=4">
    <img align="center" alt="Caue-AWS" height="50" width="60" src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png">
      
