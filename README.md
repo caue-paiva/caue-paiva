@@ -4,6 +4,7 @@
 -  ⚙️ Besides AI and Machine Learning, I am also highly interested in Software Engineering, i am proficient in Golang and Python (FastAPI) for back-end microservices and typescript for front-ends and NodeJS servers as well.
 -  🌱 I am learning how to use various technologies, a few examples are: Claude Code, LangChain, LangGraph, Google Cloud, AWS, among others.
 -  📫 You can reach me at the email cauepaivalira@usp.br
+-  🧑‍💻 My Linkedin: https://www.linkedin.com/in/cauepaiva/
 
 <div>
 <h1> My projects </h1>
@@ -13,9 +14,9 @@
 
 [Organization link and repos](https://github.com/TaCertoIssoAI)
 
-An end-to-end AI platform that fights misinformation where it spreads: inside WhatsApp. It uses LLMs with retrieval-augmented generation to fact-check messages with evidence-grounded, source-cited outputs, plus an analytics layer to study misinformation trends at scale. The platform also classifies content into structured topic hierarchies using semantic embeddings for better exploration and monitoring. 
+An end-to-end AI platform that fights misinformation where it spreads: inside WhatsApp. It uses LLMs with retrieval-augmented generation to fact-check messages with evidence-grounded, source-cited outputs, plus an analytics layer to study misinformation trends at scale. The platform also classifies content into structured topic hierarchies using semantic embeddings for better exploration and monitoring, you can access the Data Analytics platform at https://tacertoissoai.com.br.
 
-The project earned national recognition as a **Top 3 winner out of 173 projects** in the AI4Good program, with a funded invitation to **present the project at MIT and Harvard**.
+The project earned national recognition as a **Top 3 winner out of 173 projects** in the AI4Good program, with a funded invitation to **present the project at MIT and Harvard**. The project currently counts with around **10k distinct users and over 15k verified messages** on WhatsApp.
 
 <img align="center" alt="Caue-foto-ta-certo-isso-ai" src="https://avatars.githubusercontent.com/u/244182076?s=400&u=e0b134d71e567667035933cfff8f2d1f36bad892&v=4">
 
