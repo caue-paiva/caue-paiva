@@ -57,9 +57,13 @@ This project aims to develop a **Data Warehouse (DW) that consolidates multiple 
 
 The project builds upon the **educational capabilities of Large Language Models** (ex: GPT-3.5 and GPT-4) for education ,while also **mitigating weaknesses such as hallucination and lack of knowledge about certain subjects** and tests within the **brazilian university admittance standardized test (ENEM).**
 
-To achieve these results an LLM application, using **openAI models** (gpt-3.5 turbo or gpt-4), along with **aditional modules, such as internet search and retrieval augmented generarion for extra functionality**, was developed.
+To achieve these results an LLM application, using **openAI models** (gpt-3.5 turbo or gpt-4), along with **aditional modules, such as internet search and retrieval augmented generation (RAG) for extra functionality**, was developed.
 
 ### According to [feedback](https://docs.google.com/spreadsheets/d/1UaDeCpGzO5sNSsrges_OVAHg9-5cmw7FES6-4ZroLtc/edit?usp=sharing), **over 60% of users said our solution has better and more accurate answers than chatGPT**
+
+<img align="center" alt="Caue-intellectia-image" src="https://media.licdn.com/dms/image/v2/D4D2DAQFuotKNW9wS7A/profile-treasury-image-shrink_800_800/B4DZzK0jsSGkAY-/0/1772929304214?e=1779750000&v=beta&t=-Eiqo0ex8EFFQgenI5YujUKfA19xRjTbgIci09_Ra0A">
+
+UI of the AI-powered education platform, allowing users to select custom subjects for chats, such as Math and History. This topic selection also applied to the RAG system, enabling retrieval over ENEM questions for the chosen subject.
 
 <h3>  <a href="https://github.com/caue-paiva/educa_custom_GPT">CustomGPTs using APIs hosted on AWS </a> </h3>
 Implementation of the Educational Chatbot described above but using the new OpenAI customGPTs service.
